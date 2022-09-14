@@ -76,7 +76,7 @@ function Home() {
         <div className="col-3">
           <div className="card">
             <div className="about">
-              <h2 className="logo">📸 InSATgram</h2>
+              <h2 className="logo">📸 Nakaphoto</h2>
               <h3>Upload your image, earn sats!</h3>
               <small>
                 Buy and sell images for sats, sent directly to your own wallet.
