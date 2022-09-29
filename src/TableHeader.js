@@ -17,7 +17,6 @@ function TableHeader(props) {
         {[
           { value: "created_at", title: "Created at" },
           { value: "price", title: "Price" },
-          { value: "nr_of_downloads", title: "Downloads" },
           { value: "sats_earned", title: "Sats" },
         ].map((item) => (
           <button
