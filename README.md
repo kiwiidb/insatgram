@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Read this
+
+This project was created as a showcase for [LSAT](https://lsat.tech). This repository contains the front-end, the back-end can be found (here)[https://github.com/getAlby/sell-lsat-files]. The website is no longer online, but if you want to deploy a similar project, don't hesitate to reach out to me.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
